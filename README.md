@@ -1,7 +1,7 @@
 # Quiz-Me
 
 ### App Description
-`TODO://` Android flashcard app I made during a lab session with CodePath.
+Android flashcard app I made during a lab session with CodePath.
 
 ### App Walk-though
 <img src="http://g.recordit.co/B6Sbt11bh1.gif" width=200><br>
